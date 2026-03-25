@@ -1,0 +1,11 @@
+{
+  "name": "messenger-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "fca-unofficial": "^1.3.10"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
